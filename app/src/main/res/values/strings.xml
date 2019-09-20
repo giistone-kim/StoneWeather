@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoneWeather</string>
+    <string name="loading">로딩중.....</string>
+    <string name="setting">setting</string>
+    <string name="account_setting">계정설정</string>
+    <string name="logout">로그아웃</string>
+    <string name="account_delete">회원탈퇴</string>
+    <string name="account_delete_dialog">정말 계정을 삭제 하시겠습니까?</string>
+    <string name="yes">네, 탈퇴하겠습니다.</string>
+    <string name="no">아니요, 생각좀 해보겠습니다.</string>
+    <string name="current_weather">현재 날씨</string>
+    <string name="option">설정</string>
+    <string name="intro">~오늘의 날씨~</string>
+
+
+    <!--<string name="deg"><![CDATA[℃]]> </string>-->
+
+    <!--℃-->
+    <!--DEGREE CELSIUS-->
+    <!--유니코드: U+2103, UTF-8: E2 84 83-->
+
+
+
+</resources>
